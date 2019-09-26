@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReplaceInFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "-o c:\\test\\old.txt -n c:\\test\\new.txt -p C:\\g\\Intercom\\Agents\\TestBot -e *.csproj"
+    }
+  }
+}
